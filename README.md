@@ -18,6 +18,8 @@
     - L11302 常見的機器學習模型
   - L114 鑑別式 AI與生成式 AI概念
     - L11401 鑑別式 AI與生成式 AI的基本原理
+      - 鑑別式AI（Discriminative AI；DAI）
+      - 生成式AI（Generative AI） 
     - L11402 鑑別式 AI與生成式 AI的整合應用
 ## 科目2:L12 生成式 AI 應用與規劃
 - L121 No code / Low code概念
